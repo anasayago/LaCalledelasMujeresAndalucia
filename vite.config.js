@@ -1,7 +1,7 @@
 /** @type {import('vite').UserConfig} */
 export default {
     root: '.',
-    base: '/LaCalledelasMujeresAndalucia/',
+    base: './',
     build: {
         outDir: 'dist',
         emptyOutDir: true
