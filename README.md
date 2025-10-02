@@ -92,6 +92,10 @@ Contacta con nostras a través de twitter: [@geochicasosm](https://twitter.com/G
 * **SantaLab** (*Argentina*)
 
 
+## Adaptación y datos adicionales
+
+Esta versión fue adaptada y ampliada por Ana Sayago para incluir la ciudad de Huelva.
+
 ## Licencia
 
 This project is licensed under *CC BY-SA* License - see the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) file for details
