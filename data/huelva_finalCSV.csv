@@ -1,0 +1,401 @@
+calle;calleClean;name;surname;fiabilidad;gender;category;typeofroad;wikipedia
+Plaza Altisidora;Altisidora;Altisidora;;2;Female;-;-
+Plaza de Isabel la Católica;Isabel la Católica;Isabel;la;2;Female;-;-;https://es.wikipedia.org/wiki/Isabel_I_de_Castilla
+Plaza de San Pedro;San Pedro;San;Pedro;-2;Male;-;-
+Plaza de José María Labrador;José María Labrador;José;María;-2;Male;-;-
+Plaza de la Soledad;Soledad;Soledad;;2;Female;-;-
+Plaza del Tallista Miguel Hierro Barreda;Tallista Miguel Hierro Barreda;Tallista;Miguel;-2;Male;-;-
+Plaza Sancho Panza;Sancho Panza;Sancho;Panza;-2;Male;-;-
+Plaza Dulcinea;Dulcinea;Dulcinea;;2;Female;-;-;https://es.wikipedia.org/wiki/Dulcinea_del_Toboso
+Plaza de Alonso Quijano;Alonso Quijano;Alonso;Quijano;-2;Male;-;-
+Plaza de Teresa Panza;Teresa Panza;Teresa;Panza;2;Female;-;-
+Plaza de Elio Antonio de Nebrija;Elio Antonio de Nebrija;Elio;Antonio;-2;Male;-;-
+Plaza de Perlita de Huelva;Perlita de Huelva;Perlita;de;2;Female;-;-;https://es.wikipedia.org/wiki/Perlita_de_Huelva
+Plaza de Eugenio Hermoso;Eugenio Hermoso;Eugenio;Hermoso;-2;Male;-;-
+Plaza de Paco Toronjo;Paco Toronjo;Paco;Toronjo;-2;Male;-;-
+Plaza de Cristóbal Quintero;Cristóbal Quintero;Cristóbal;Quintero;-2;Male;-;-
+Plaza de Maruja Manrique;Maruja Manrique;Maruja;Manrique;2;Female;-;-
+Plaza del Doctor José Arenas Ortiz;Doctor José Arenas Ortiz;Doctor;José;-2;Male;-;-
+Plaza de la Misericordia;Misericordia;Misericordia;;2;Female;-;-
+Plaza de las Adoratrices;Adoratrices;Adoratrices;;2;Female;-;-
+Plaza de José María Morón;José María Morón;José;María;-2;Male;-;-
+Plaza del Doctor Eloy Picón;Doctor Eloy Picón;Doctor;Eloy;-2;Male;-;-
+Plaza del Lino;Lino;Lino;;-2;Male;-;-
+Plaza del Alcalde Coto Mora;AlcalCoto Mora;AlcalCoto;Mora;2;Male;-;-;
+Plaza de Don Miguel Raya;Don Miguel Raya;Don;Miguel;-2;Male;-;-
+Plaza de Nuestra Señora de los Dolores;Nuestra Señora Dolores;Nuestra;Señora;2;Female;-;-
+Plaza de Nuestra Señora del Rosario;Nuestra Señora del Rosario;Nuestra;Señora;2;Female;-;-
+Plaza Monseñor José María Escrivá de Balaguer;Monseñor José María Escrivá Balaguer;Monseñor;José;-2;Male;-;-
+Plaza Juan Pablo II;Juan Pablo II;Juan;Pablo;-2;Male;-;-
+Plaza Santa Teresa de Jesús;Santa Teresa Jesús;Santa;Teresa;2;Female;-;-;https://es.wikipedia.org/wiki/Teresa_de_Jes%C3%BAs
+Plaza Joaquín Bustamante;Joaquín Bustamante;Joaquín;Bustamante;-2;Male;-;-
+Plaza Alejandro Malaspina;Alejandro Malaspina;Alejandro;Malaspina;-2;Male;-;-
+Plaza Santiago Liniers;Santiago Liniers;Santiago;Liniers;-2;Male;-;-
+Plaza Pascual Cervera;Pascual Cervera;Pascual;Cervera;-2;Male;-;-
+Plaza Juan Bautista Antequera;Juan Bautista Antequera;Juan;Bautista;-2;Male;-;-
+Plaza Ignacio María Ávala;Ignacio María Ávala;Ignacio;María;-2;Male;-;-
+Plaza Cayetano Valdés;Cayetano Valdés;Cayetano;Valdés;-2;Male;-;-
+Plaza Antonio Barceló;Antonio Barceló;Antonio;Barceló;-2;Male;-;-
+Plaza Jorge Juan;Jorge Juan;Jorge;Juan;-2;Male;-;-
+Plaza Blas de Lezo;Blas Lezo;Blas;Lezo;-2;Male;-;-
+Plaza Álvaro de Bazán;Álvaro Bazán;Álvaro;Bazán;-2;Male;-;-
+Plaza Roger de Lauria;Roger Lauria;Roger;Lauria;-2;Male;-;-
+Plaza Ramón de Bonifaz;Ramón Bonifaz;Ramón;Bonifaz;-2;Male;-;-
+Plaza Jofre Tenorio;Jofre Tenorio;Jofre;Tenorio;-2;Male;-;-
+Plaza del Doctor Eduardo José García Fernández;Doctor Eduardo José García Fernández;Doctor;Eduardo;-2;Male;-;-
+Plaza del Nardo;Nardo;Nardo;;-2;Male;-;-
+Plaza de Luis Buñuel;Luis Buñuel;Luis;Buñuel;-2;Male;-;-
+Plaza del Pintor Enrique Montenegro;Pintor Enrique Montenegro;Pintor;Enrique;-2;Male;-;-
+Plaza de Amparo Correa Beltrán;Amparo Correa Beltrán;Amparo;Correa;2;Female;-;-;https://es.wikipedia.org/wiki/Amparo_Torreblanca
+Plaza de Ivonne Cazenave;Ivonne Cazenave;Ivonne;Cazenave;2;Female;-;-
+Plaza de las Monjas;Monjas;Monjas;;2;Female;-;-
+Avenida de las Adoratrices;Adoratrices;Adoratrices;;2;Female;-;-
+Avenida de Manuel Siurot;Manuel Siurot;Manuel;Siurot;-2;Male;-;-
+Calle Ricardo Terrades;Ricardo Terrades;Ricardo;Terrades;-2;Male;-;-
+Calle Pedro Gómez;Pedro Gómez;Pedro;Gómez;-2;Male;-;-
+Calle Pepe Ramos;Pepe Ramos;Pepe;Ramos;-2;Male;-;-
+Calle Ramón Menéndez Pidal;Ramón Menéndez Pidal;Ramón;Menéndez;-2;Male;-;-
+Plaza de la Merced;Merced;Merced;;2;Female;-;-;https://es.wikipedia.org/wiki/Virgen_de_la_Merced
+Calle Doctor Juan Nicolás Márquez Domínguez;Doctor Juan Nicolás Márquez Domínguez;Doctor;Juan;-2;Male;-;-
+Avenida de Santa Marta;Santa Marta;Santa;Marta;2;Female;-;-
+Plaza del Huerto Paco;Huerto Paco;Huerto;Paco;-2;Male;-;-
+Calle de Vasco Núñez de Balboa;Vasco Núñez de Balboa;Vasco;Núñez;-2;Male;-;-
+Avenida de Cristóbal Colón;Cristóbal Colón;Cristóbal;Colón;-2;Male;-;-
+Calle San Sebastián;San Sebastián;San;Sebastián;-2;Male;-;-
+Calle Alonso Barba;Alonso Barba;Alonso;Barba;-2;Male;-;-
+Calle José Muñoz Leandro "Pirfo";José Muñoz Leandro "Pirfo";José;Muñoz;-2;Male;-;-
+Calle Vicente Ferrer;Vicente Ferrer;Vicente;Ferrer;-2;Male;-;-
+Calle Madre Teresa de Calcuta;Madre Teresa Calcuta;Madre;Teresa;2;Female;-;-;https://es.wikipedia.org/wiki/Teresa_de_Calcuta
+Avenida Pio XII;Pio XII;Pio;XII;-2;Male;-;-
+Calle Rubén Darío;Rubén Darío;Rubén;Darío;-2;Male;-;-
+Calle Antonio Machado;Antonio Machado;Antonio;Machado;-2;Male;-;-
+Avenida de Francisco Montenegro;Francisco Montenegro;Francisco;Montenegro;-2;Male;-;-
+Calle Presidente Adolfo Suárez;Presidente Adolfo Suárez;Presidente;Adolfo;-2;Male;-;-
+Calle Doctor Celestino Verdier;Doctor Celestino Verdier;Doctor;Celestino;-2;Male;-;-
+Calle Manuel de Falla;Manuel Falla;Manuel;Falla;-2;Male;-;-
+Calle Alonso de Ojeda;Alonso Ojeda;Alonso;Ojeda;-2;Male;-;-
+Avenida de Diego Morón;Diego Morón;Diego;Morón;-2;Male;-;-
+Avenida de San Antonio;San Antonio;San;Antonio;-2;Male;-;-
+Calle Juan Sebastián Elcano;Juan Sebastián Elcano;Juan;Sebastián;-2;Male;-;-
+Calle Santiago Apóstol;Santiago Apóstol;Santiago;Apóstol;-2;Male;-;-
+Avenida de Pío XII;Pío XII;Pío;XII;-2;Male;-;-
+Calle Blanca Paloma;Blanca Paloma;Blanca;Paloma;2;Female;-;-;https://es.wikipedia.org/wiki/Virgen_del_Roc%C3%ADo
+Avenida de Pablo Ruiz Picasso;Pablo Ruiz Picasso;Pablo;Ruiz;-2;Male;-;-
+Calle Pablo Rada;Pablo Rada;Pablo;Rada;-2;Male;-;-
+Calle Roque Barcia;Roque Barcia;Roque;Barcia;-2;Male;-;-
+Calle Francisco Niño;Francisco Niño;Francisco;Niño;-2;Male;-;-
+Avenida de la Cinta;Cinta;Cinta;;2;Female;-;-;https://es.wikipedia.org/wiki/Virgen_de_la_Cinta_(Catedral_de_Huelva)
+Calle Médico Luiz Buendía;Médico Luiz Buendía;Médico;Luiz;-2;Male;-;-
+Calle Concepción;Concepción;Concepción;;2;Female;-;-;https://es.wikipedia.org/wiki/Inmaculada_Concepci%C3%B3n
+Calle Doctor Plácido Bañuelos;Doctor Plácido Bañuelos;Doctor;Plácido;-2;Male;-;-
+Calle Alfonso XIII;Alfonso XIII;Alfonso;XIII;-2;Male;-;-
+Calle Amado de Lázaro;Amado Lázaro;Amado;Lázaro;-2;Male;-;-
+Calle Sor Paula Alzola;Sor Paula Alzola;Sor;Paula;2;Female;-;-
+Calle Escultor León Ortega;Escultor León Ortega;Escultor;León;-2;Male;-;-
+Carretera de La Cinta;Carretera de La Cinta;Carretera;de;2;Female;-;-;https://es.wikipedia.org/wiki/Virgen_de_la_Cinta_(Catedral_de_Huelva)
+Calle Pascual Martínez;Pascual Martínez;Pascual;Martínez;-2;Male;-;-
+Calle Diego Velázquez;Diego Velázquez;Diego;Velázquez;-2;Male;-;-
+Calle Miguel de Unamuno;Miguel Unamuno;Miguel;Unamuno;-2;Male;-;-
+Calle Ruiz de Alda;Ruiz Alda;Ruiz;Alda;2;Male;-;-;
+Calle Camarada Paulino González Mora;Camarada Paulino González Mora;Camarada;Paulino;-2;Male;-;-
+Avenida Federico Mayo;Federico Mayo;Federico;Mayo;-2;Male;-;-
+Calle Poeta Jesús Arcensio;Poeta Jesús Arcensio;Poeta;Jesús;-2;Male;-;-
+Calle Jesús de la Pasión;Jesús Pasión;Jesús;Pasión;-2;Male;-;-
+Calle Cineasta Francisco Elías;Cineasta Francisco Elías;Cineasta;Francisco;-2;Male;-;-
+Calle Arcipreste Manuel González García;Arcipreste Manuel González García;Arcipreste;Manuel;-2;Male;-;-
+Calle Juan de la Cosa;Juan Cosa;Juan;Cosa;-2;Male;-;-
+Calle Joaquín de la Torre;Joaquín Torre;Joaquín;Torre;-2;Male;-;-
+Avenida de Federico Mayo;Federico Mayo;Federico;Mayo;-2;Male;-;-
+Calle San Andrés;San Andrés;San;Andrés;-2;Male;-;-
+Calle Periodista Luca de Tena;Periodista Luca Tena;Periodista;Luca;-2;Male;-;-
+Calle Alcalde José María Amo;AlcalJosé María Amo;AlcalJosé;María;2;Female;-;-;https://es.wikipedia.org/wiki/Mar%C3%ADa_Jos%C3%A9_Garc%C3%ADa_Borge
+Calle Jesús Nazareno;Jesús Nazareno;Jesús;Nazareno;-2;Male;-;-
+Calle Jesús del Calvario;Jesús Calvario;Jesús;Calvario;-2;Male;-;-
+Callejón San Andrés;San Andrés;San;Andrés;-2;Male;-;-
+Calle Hernán Cortés;Hernán Cortés;Hernán;Cortés;-2;Male;-;-
+Calle Carmen;Carmen;Carmen;;2;Female;-;-;https://es.wikipedia.org/wiki/Virgen_del_Carmen
+Calle Carmen Conde;Carmen Conde;Carmen;Conde;2;Female;-;-
+Calle Alfonso Aramburu Terrades;Alfonso Aramburu Terrades;Alfonso;Aramburu;-2;Male;-;-
+Calle Antonio Borrero "Chamaco";Antonio Borrero "Chamaco";Antonio;Borrero;-2;Male;-;-
+Calle Pilar Miró;Pilar Miró;Pilar;Miró;2;Female;-;-;https://es.wikipedia.org/wiki/Pilar_Mir%C3%B3
+Calle Paula Santiago;Paula Santiago;Paula;Santiago;2;Female;-;-
+Calle Clara Campoamor;Clara Campoamor;Clara;Campoamor;2;Female;-;-;https://es.wikipedia.org/wiki/Clara_Campoamor
+Calle Antonio Rengel;Antonio Rengel;Antonio;Rengel;-2;Male;-;-
+Calle Nuestro Padre Jesús del Prendimiento;Nuestro Padre Jesús Prendimiento;Nuestro;Padre;-2;Male;-;-
+Calle Nazaret;Nazaret;Nazaret;;2;Female;-;-;https://es.wikipedia.org/wiki/Nazareth_Cascante
+Calle Hermano Carlos "Obrero de María";Hermano Carlos "Obrero María";Hermano;Carlos;-2;Male;-;-
+Calle Presbítero Pablo Rodríguez;Presbítero Pablo Rodríguez;Presbítero;Pablo;-2;Male;-;-
+Avenida de José Fariñas;José Fariñas;José;Fariñas;-2;Male;-;-
+Calle Camarada Jaime Beneyto;Camarada Jaime Beneyto;Camarada;Jaime;-2;Male;-;-
+Calle Santísimo Cristo del Amor;Santísimo Cristo Amor;Santísimo;Cristo;-2;Male;-;-
+Calle Camarada Montiel Pichardo;Camarada Montiel Pichardo;Camarada;Montiel;2;Male;-;-
+Calle Federico García Lorca;Federico García Lorca;Federico;García;-2;Male;-;-
+Calle Camarada Manuel María Carrasco;Camarada Manuel María Carrasco;Camarada;Manuel;-2;Male;-;-
+Calle Antonio Delgado;Antonio Delgado;Antonio;Delgado;-2;Male;-;-
+Calle Almirante Luis Hernández Pinzón;Almirante Luis Hernández Pinzón;Almirante;Luis;-2;Male;-;-
+Calle Maestra Aurora Romero;Maestra Aurora Romero;Maestra;Aurora;2;Female;-;-
+Calle Teniente de Navío Rafael Gómez Bravo;Teniente Navío Rafael Gómez Bravo;Teniente;Navío;-2;Male;-;-
+Calle Pedro Alonso Niño;Pedro Alonso Niño;Pedro;Alonso;-2;Male;-;-
+Calle Rodrigo de Jerez;Rodrigo Jerez;Rodrigo;Jerez;-2;Male;-;-
+Calle Teniente de Navío Celestino Díaz Hernández;Teniente Navío Celestino Díaz Hernández;Teniente;Navío;-2;Male;-;-
+Calle Daniel Vázquez Díaz;Daniel Vázquez Díaz;Daniel;Vázquez;-2;Male;-;-
+Calle Alonso de Morales;Alonso Morales;Alonso;Morales;-2;Male;-;-
+Calle Ismael Serrano;Ismael Serrano;Ismael;Serrano;-2;Male;-;-
+Calle Teniente de Navío José Estrada Cepeda;Teniente Navío José Estrada Cepeda;Teniente;Navío;-2;Male;-;-
+Calle Sansón Carrasco;Sansón Carrasco;Sansón;Carrasco;-2;Male;-;-
+Calle Maese Nicolás;Maese Nicolás;Maese;Nicolás;-2;Male;-;-
+Calle Alfonso X el Sabio;Alfonso X el Sabio;Alfonso;X;-2;Male;-;-
+Calle Periodista Ángel Serradilla;Periodista Ángel Serradilla;Periodista;Ángel;-2;Male;-;-
+Calle Poeta José Manuel de Lara;Poeta José Manuel Lara;Poeta;José;-2;Male;-;-
+Calle Ana María Jerez Cano;Ana María Jerez Cano;Ana;María;2;Female;-;-
+Calle Antonio José Martinez Navarro;Antonio José Martinez Navarro;Antonio;José;-2;Male;-;-
+Calle Doña Leonor de Guzmán;Doña Leonor Guzmán;Doña;Leonor;2;Female;-;-;https://es.wikipedia.org/wiki/Leonor_de_Guzm%C3%A1n
+Calle Antón de Alaminos;Antón Alaminos;Antón;Alaminos;-2;Male;-;-
+Calle Vicente Yáñez Pinzón;Vicente Yáñez Pinzón;Vicente;Yáñez;-2;Male;-;-
+Calle Juan Ramón Jiménez;Juan Ramón Jiménez;Juan;Ramón;-2;Male;-;-
+Calle Francisco Pizarro;Francisco Pizarro;Francisco;Pizarro;-2;Male;-;-
+Calle Juan Manuel Durán;Juan Manuel Durán;Juan;Manuel;-2;Male;-;-
+Calle Escultora Miss Whitney;Escultora Miss Whitney;Escultora;Miss;2;Female;-;-;https://es.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney
+Calle Presbítero Francisco Gaona;Presbítero Francisco Gaona;Presbítero;Francisco;-2;Male;-;-
+Calle Paco Cerrejón;Paco Cerrejón;Paco;Cerrejón;-2;Male;-;-
+Calle Diego Díaz Hierro;Diego Díaz Hierro;Diego;Díaz;-2;Male;-;-
+Calle Ricardo Velázquez;Ricardo Velázquez;Ricardo;Velázquez;-2;Male;-;-
+Calle San Salvador;San Salvador;San;Salvador;-2;Male;-;-
+Calle Manuel Rodríguez Zamora;Manuel Rodríguez Zamora;Manuel;Rodríguez;-2;Male;-;-
+Calle Guillermo Poole de Arco;Guillermo Poole Arco;Guillermo;Poole;-2;Male;-;-
+Pasaje Pedro Argot;Pedro Argot;Pedro;Argot;-2;Male;-;-
+Calle Blas Infante;Blas Infante;Blas;Infante;-2;Male;-;-
+Calle San Juan;San Juan;San;Juan;-2;Male;-;-
+Plaza Cristóbal Quintero;Cristóbal Quintero;Cristóbal;Quintero;-2;Male;-;-
+Calle Juan Niño;Juan Niño;Juan;Niño;-2;Male;-;-
+Calle San Ramón;San Ramón;San;Ramón;-2;Male;-;-
+Calle Juan de la Plaza;Juan Plaza;Juan;Plaza;-2;Male;-;-
+Calle Alfonso XII;Alfonso XII;Alfonso;XII;-2;Male;-;-
+Calle Paco Isidro;Paco Isidro;Paco;Isidro;-2;Male;-;-
+Calle Nicolás Orta;Nicolás Orta;Nicolás;Orta;-2;Male;-;-
+Calle Manuela Sánchez "Niña de Huelva";Manuela Sánchez "Niña Huelva";Manuela;Sánchez;2;Female;-;-;https://es.wikipedia.org/wiki/Manuela_S%C3%A1nchez_Rodr%C3%ADguezhttps://es.wikipedia.org/wiki/Mar%C3%ADa_de_Francia_(poetisa)
+Plaza de Santa Raquel;Santa Raquel;Santa;Raquel;2;Female;-;-;https://es.wikipedia.org/wiki/Raquel
+Calle Inca de Garcilaso;Inca Garcilaso;Inca;Garcilaso;2;Male;-;-
+Calle Ernesto Lazo;Ernesto Lazo;Ernesto;Lazo;-2;Male;-;-
+Calle Inca Garcilaso;Inca Garcilaso;Inca;Garcilaso;2;Male;-;-
+Calle Gómez de Avellaneda;Gómez de Avellaneda;Gómez;Avellaneda;2;Female;-;-
+Plaza de Rogelio Buendía;Rogelio Buendía;Rogelio;Buendía;-2;Male;-;-
+Calle Díaz del Castillo;Díaz Castillo;Díaz;Castillo;2;Male;-;-
+Calle San José;San José;San;José;-2;Male;-;-
+Calle Gabriela Mistral;Gabriela Mistral;Gabriela;Mistral;2;Female;-;-;https://es.wikipedia.org/wiki/Gabriela_Mistral
+Calle Concepción Rodríguez Garzón;Concepción Rodríguez Garzón;Concepción;Rodríguez;2;Female;-;-
+Calle Rafael Guillén;Rafael Guillén;Rafael;Guillén;-2;Male;-;-
+Calle Gonzalo de Berceo;Gonzalo Berceo;Gonzalo;Berceo;-2;Male;-;-
+Calle Agustín Domínguez Belda;Agustín Domínguez Belda;Agustín;Domínguez;-2;Male;-;-
+Calle San Bartolomé de la Torre;San Bartolomé Torre;San;Bartolomé;-2;Male;-;-
+Calle Miguel Ángel Asturias;Miguel Ángel Asturias;Miguel;Ángel;-2;Male;-;-
+Plaza de Juan XXIII;Juan XXIII;Juan;XXIII;-2;Male;-;-
+Calle Santa Rafaela María;Santa Rafaela María;Santa;Rafaela;2;Female;-;-;https://es.wikipedia.org/wiki/Rafaela_Porras_y_Ayll%C3%B3n
+Calle Santa Ana;Santa Ana;Santa;Ana;2;Female;-;-;https://es.wikipedia.org/wiki/Ana_(madre_de_Mar%C3%ADa)
+Calle Ramón y Cajal;Ramón y Cajal;Ramón;y;-2;Male;-;-
+Calle Juan Mateo Jiménez;Juan Mateo Jiménez;Juan;Mateo;-2;Male;-;-
+Calle Menéndez Pelayo;Menéndez Pelayo;Menéndez;Pelayo;-2;Male;-;-
+Calle Cristo;Cristo;Cristo;;-2;Male;-;-
+Calle San Blas;San Blas;San;Blas;-2;Male;-;-
+Calle Miguel Hernández;Miguel Hernández;Miguel;Hernández;-2;Male;-;-
+Calle Juan de Ávila;Juan Ávila;Juan;Ávila;-2;Male;-;-
+Calle Don Bosco;Don Bosco;Don;Bosco;-2;Male;-;-
+Calle José María Pereda;José María Pereda;José;María;-2;Male;-;-
+Calle Presbítero Manuel López Vega;Presbítero Manuel López Vega;Presbítero;Manuel;-2;Male;-;-
+Cale Juan Salvador;Cale Juan Salvador;Cale;Juan;-2;Male;-;-
+Calle Arcipreste Julio Guzmán;Arcipreste Julio Guzmán;Arcipreste;Julio;-2;Male;-;-
+Calle Practicante Martín Molino;Practicante Martín Molino;Practicante;Martín;-2;Male;-;-
+Calle Fermín Requena;Fermín Requena;Fermín;Requena;-2;Male;-;-
+Calle Dulce Nombre de María;Dulce Nombre María;Dulce;Nombre;2;Female;-;-
+Calle Antonio Pineda;Antonio Pineda;Antonio;Pineda;-2;Male;-;-
+Calle Diego de Almagro;Diego Almagro;Diego;Almagro;-2;Male;-;-
+Calle Ramón López García;Ramón López García;Ramón;López;-2;Male;-;-
+Calle Hermenegildo de la Torre;Hermenegildo Torre;Hermenegildo;Torre;-2;Male;-;-
+Calle Isabel II;Isabel II;Isabel;II;2;Female;-;-;https://es.wikipedia.org/wiki/Isabel_II_de_Espa%C3%B1a
+Calle Santa Cristina;Santa Cristina;Santa;Cristina;2;Female;-;-;https://es.wikipedia.org/wiki/Cristina_de_Bolsena
+Calle Rafael Pavón;Rafael Pavón;Rafael;Pavón;-2;Male;-;-
+Calle Huerto Don Moisés;Huerto Don Moisés;Huerto;Don;-2;Male;-;-
+Calle Nuestra Señora del Rocío;Nuestra Señora Rocío;Nuestra;Señora;2;Female;-;-;https://es.wikipedia.org/wiki/Virgen_del_Roc%C3%ADo
+Calle Juan de Oñate;Juan Oñate;Juan;Oñate;-2;Male;-;-
+Calle Fray Juan Pérez;Fray Juan Pérez;Fray;Juan;-2;Male;-;-
+Calle María Auxiliadora;María Auxiliadora;María;Auxiliadora;2;Female;-;-;https://es.wikipedia.org/wiki/Mar%C3%ADa_Auxiliadora
+Calle Santa María Micaela;Santa María Micaela;Santa;María;2;Female;-;-;https://es.wikipedia.org/wiki/Mar%C3%ADa_Micaela_del_Sant%C3%ADsimo_Sacramento
+Calle de Alonso Ercilla;Alonso Ercilla;Alonso;Ercilla;-2;Male;-;-
+Calle Bartolomé García;Bartolomé García;Bartolomé;García;-2;Male;-;-
+Calle San Francisco;San Francisco;San;Francisco;-2;Male;-;-
+Calle Gobernador Alonso;Gobernador Alonso;Gobernador;Alonso;-2;Male;-;-
+Calle Elena Montagut;Elena Montagut;Elena;Montagut;2;Female;-;-
+Calle Doctor Emilio Haya Prats;Doctor Emilio Haya Prats;Doctor;Emilio;-2;Male;-;-
+Avenida de Martín Alonso Pinzón;Martín Alonso Pinzón;Martín;Alonso;-2;Male;-;-
+Calle Obispo García Lahiguera;Obispo García Lahiguera;Obispo;García;-2;Male;-;-
+Calle Duque de la Victoria;Duque Victoria;Duque;Victoria;2;Male;-;-
+Calle José Nogales;José Nogales;José;Nogales;-2;Male;-;-
+Calle Nuestra Señora de la Esperanza Coronada;Nuestra Señora Esperanza Coronada;Nuestra;Señora;2;Female;-;-;https://es.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_la_Esperanza_(Triana)
+Calle San Cristóbal;San Cristóbal;San;Cristóbal;-2;Male;-;-
+Calle Arquitecto Pérez Carasa;Arquitecto Pérez Carasa;Arquitecto;Pérez;-2;Male;-;-
+Calle Santa Angela de la Cruz;Santa Angela Cruz;Santa;Angela;2;Female;-;-;https://es.wikipedia.org/wiki/%C3%81ngela_de_la_Cruz
+Calle Aviador Ramón Franco;Aviador Ramón Franco;Aviador;Ramón;-2;Male;-;-
+Calle Luis Braille;Luis Braille;Luis;Braille;-2;Male;-;-
+Calle Maestro Salvador López;Maestro Salvador López;Maestro;Salvador;-2;Male;-;-
+Calle Pedro de Valdivia;Pedro Valdivia;Pedro;Valdivia;-2;Male;-;-
+Calle Estrella Martín Tejerizo;Estrella Martín Tejerizo;Estrella;Martín;2;Female;-;-
+Calle Las Niñas de la Manola;Las Niñas de la Manola;Niñas;Manola;2;Female;-;-
+Calle Salvador Allende;Salvador Allende;Salvador;Allende;-2;Male;-;-
+Calle Pedro Azcárate;Pedro Azcárate;Pedro;Azcárate;-2;Male;-;-
+Calle Practicante Juan Carbonell;Practicante Juan Carbonell;Practicante;Juan;-2;Male;-;-
+Calle Joaquín Turina;Joaquín Turina;Joaquín;Turina;-2;Male;-;-
+Calle Goya;Goya;Goya;;2;Male;-;-
+Calle Stmo.Cristo del Amor;Stmo.Cristo Amor;Stmo.Cristo;Amor;2;Male;-;-
+Calle Isaac Albéniz;Isaac Albéniz;Isaac;Albéniz;-2;Male;-;-
+Calle Fernando Alvarado;Fernando Alvarado;Fernando;Alvarado;-2;Male;-;-
+Calle Pérez Galdós;Pérez Galdós;Pérez;Galdós;-2;Male;-;-
+Calle Abogado Juan José Domínguez;Abogado Juan José Domínguez;Abogado;Juan;-2;Male;-;-
+Calle Cristóbal Dorante;Cristóbal Dorante;Cristóbal;Dorante;-2;Male;-;-
+Calle Elena Quiroga;Elena Quiroga;Elena;Quiroga;2;Female;-;-;https://es.wikipedia.org/wiki/Elena_Quiroga
+Calle Actor Frank Romero;Actor Frank Romero;Actor;Frank;-2;Male;-;-
+Calle José Isidoro Morales;José Isidoro Morales;José;Isidoro;-2;Male;-;-
+Calle José Manuel Carrión;José Manuel Carrión;José;Manuel;-2;Male;-;-
+Calle Santo Domingo de la Calzada;Santo Domingo Calzada;Santo;Domingo;-2;Male;-;-
+Calle Dolores Ibárruri " La Pasionaria";Dolores Ibárruri "La Pasionaria";Dolores;Ibárruri;2;Female;-;-;https://es.wikipedia.org/wiki/Dolores_Ib%C3%A1rruri
+Calle José Vázquez;José Vázquez;José;Vázquez;-2;Male;-;-
+Calle Miguel Redondo;Miguel Redondo;Miguel;Redondo;-2;Male;-;-
+Calle Escritor Luis Manzano;Escritor Luis Manzano;Escritor;Luis;-2;Male;-;-
+Calle Manuel Sánchez;Manuel Sánchez;Manuel;Sánchez;-2;Male;-;-
+Calle Juan Castro González;Juan Castro González;Juan;Castro;-2;Male;-;-
+Calle Licenciado Juan Agustín de Mora;Licenciado Juan Agustín Mora;Licenciado;Juan;-2;Male;-;-
+Calle Isaac Peral;Isaac Peral;Isaac;Peral;-2;Male;-;-
+Calle Sanchica;Sanchica;Sanchica;;2;Female;-;-
+Avenida de José Muñoz de Vargas;José Muñoz de Vargas;José;Muñoz;-2;Male;-;-
+Avenida Manuel Siurot;Manuel Siurot;Manuel;Siurot;-2;Male;-;-
+Calle Pérez Quintero;Pérez Quintero;Pérez;Quintero;-2;Male;-;-
+Avenida de Julio Caro Baroja;Julio Caro Baroja;Julio;Caro;-2;Male;-;-
+Parque de las Oblatas;Oblatas;Oblatas;;2;Female;-;-
+Calle Fernando el Católico;Fernando el Católico;Fernando;el;-2;Male;-;-
+Calle Adriano;Adriano;Adriano;;-2;Male;-;-
+Calle Basilio Marquinez;Basilio Marquinez;Basilio;Marquinez;-2;Male;-;-
+Calle Ernesto Deligny;Ernesto Deligny;Ernesto;Deligny;-2;Male;-;-
+Calle José María Patiño;José María Patiño;José;María;-2;Male;-;-
+Calle Ponce de León;Ponce León;Ponce;León;-2;Male;-;-
+Calle Rodrigo de Triana;Rodrigo Triana;Rodrigo;Triana;-2;Male;-;-
+Calle Minas de San Telmo;Minas San Telmo;Minas;San;-2;Male;-;-
+Calle Camarada Fernando Castillo;Camarada Fernando Castillo;Camarada;Fernando;-2;Male;-;-
+Calle Martín Vázquez;Martín Vázquez;Martín;Vázquez;-2;Male;-;-
+Calle Manuel Martín Robles;Manuel Martín Robles;Manuel;Martín;-2;Male;-;-
+Calle María Zambrano;María Zambrano;María;Zambrano;2;Female;-;-;https://es.wikipedia.org/wiki/Mar%C3%ADa_Zambrano
+Calle Adriano del Valle;Adriano Valle;Adriano;Valle;-2;Male;-;-
+Calle Obispo Díaz Bernal;Obispo Díaz Bernal;Obispo;Díaz;-2;Male;-;-
+Calle Arquitecto Francisco Sedano Arce;Arquitecto Francisco Sedano Arce;Arquitecto;Francisco;-2;Male;-;-
+Calle Baltasar González;Baltasar González;Baltasar;González;-2;Male;-;-
+Calle Francisco Jiménez;Francisco Jiménez;Francisco;Jiménez;-2;Male;-;-
+Calle Jacinto Benavente;Jacinto Benavente;Jacinto;Benavente;-2;Male;-;-
+Calle Lope de Vega;Lope Vega;Lope;Vega;-2;Male;-;-
+Calle San Marcos;San Marcos;San;Marcos;-2;Male;-;-
+Plaza del Padre Jenaro;Padre Jenaro;Padre;Jenaro;-2;Male;-;-
+Calle Camarada Carlos Moreno;Camarada Carlos Moreno;Camarada;Carlos;-2;Male;-;-
+Calle Grupo Ministro Vicente Mortes;Grupo Ministro Vicente Mortes;Grupo;Ministro;-2;Male;-;-
+Plaza de Pepe Sanz;Pepe Sanz;Pepe;Sanz;-2;Male;-;-
+Calle Santa Olalla del Cala;Santa Olalla Cala;Santa;Olalla;2;Female;-;-;https://es.wikipedia.org/wiki/Eulalia_de_M%C3%A9rida
+Calle Gil Marquéz;Gil Marquéz;Gil;Marquéz;-2;Male;-;-
+Pasaje Alonso de Palos;Alonso Palos;Alonso;Palos;-2;Male;-;-
+Pasaje Juan de la Reina;Juan Reina;Juan;Reina;-2;Male;-;-
+Pasaje A Avenida de Pío XII;Pasaje A  Pío XII;Pasaje;A;-2;Male;-;-
+Pasaje B Avenida de Pío XII;Pasaje B  Pío XII;Pasaje;B;-2;Male;-;-
+Pasaje C Avenida de Pío XII;Pasaje C  Pío XII;Pasaje;C;-2;Male;-;-
+Pasaje D Avenida de Pío XII;Pasaje D  Pío XII;Pasaje;D;-2;Male;-;-
+Calle Diego Bermúdez;Diego Bermúdez;Diego;Bermúdez;-2;Male;-;-
+Calle Sancho de Rama;Sancho Rama;Sancho;Rama;-2;Male;-;-
+Calle Andrés de Huelva;Andrés Huelva;Andrés;Huelva;-2;Male;-;-
+Pasaje Juan de Mena;Juan Mena;Juan;Mena;-2;Male;-;-
+Pasaje García Xalmiento;García Xalmiento;García;Xalmiento;-2;Male;-;-
+Calle García Alonso;García Alonso;García;Alonso;-2;Male;-;-
+Calle José Caballero;José Caballero;José;Caballero;-2;Male;-;-
+Calle Concha Espina;Concha Espina;Concha;Espina;2;Female;-;-;https://es.wikipedia.org/wiki/Concha_Espina
+Rotonda de San Juan Pablo II;San Juan Pablo II;San;Juan;-2;Male;-;-
+Calle Hernando de Soto;Hernando Soto;Hernando;Soto;-2;Male;-;-
+Calle Primitivo Lázaro;Primitivo Lázaro;Primitivo;Lázaro;-2;Male;-;-
+Calle Domingo Borrero de Feria;Domingo Borrero Feria;Domingo;Borrero;-2;Male;-;-
+Calle Emilio Molero;Emilio Molero;Emilio;Molero;-2;Male;-;-
+Calle San Justo;San Justo;San;Justo;-2;Male;-;-
+Calle Arquitecto Alejandro Herrero;Arquitecto Alejandro Herrero;Arquitecto;Alejandro;-2;Male;-;-
+Calle Isidro Pinedo;Isidro Pinedo;Isidro;Pinedo;-2;Male;-;-
+Calle Párroco José Muñoz;Párroco José Muñoz;Párroco;José;-2;Male;-;-
+Calle Rodríguez de Castro;Rodríguez Castro;Rodríguez;Castro;-2;Male;-;-
+Calle Alcalde Antonio Morano Montiel;AlcalAntonio Morano Montiel;AlcalAntonio;Morano;2;Male;-;-;
+Calle Juan Valera;Juan Valera;Juan;Valera;-2;Male;-;-
+Calle Fernando Villalón;Fernando Villalón;Fernando;Villalón;-2;Male;-;-
+Calle Santos Chocano;Santos Chocano;Santos;Chocano;2;Male;-;-
+Calle Ramón de Campoamor;Ramón Campoamor;Ramón;Campoamor;-2;Male;-;-
+Calle Mateo Alemán;Mateo Alemán;Mateo;Alemán;-2;Male;-;-
+Calle Francisco Villaespesa;Francisco Villaespesa;Francisco;Villaespesa;-2;Male;-;-
+Calle Rodrigo de Caro;Rodrigo Caro;Rodrigo;Caro;-2;Male;-;-
+Plaza del Billarista Pepe Gálvez;Billarista Pepe Gálvez;Billarista;Pepe;-2;Male;-;-
+Calle Enfermera Teresa Martínez;Enfermera Teresa Martínez;Enfermera;Teresa;2;Female;-;-
+Calle Manuel Limón de la Rosa;Manuel Limón Rosa;Manuel;Limón;-2;Male;-;-
+Calle Doctor Rafael Segovia;Doctor Rafael Segovia;Doctor;Rafael;-2;Male;-;-
+Calle Gines Martín;Gines Martín;Gines;Martín;-2;Male;-;-
+Calle Jacobo del Barco;Jacobo Barco;Jacobo;Barco;-2;Male;-;-
+Calle Doctor Francisco Vázquez Limón;Doctor Francisco Vázquez Limón;Doctor;Francisco;-2;Male;-;-
+Calle Jesús Hermida;Jesús Hermida;Jesús;Hermida;-2;Male;-;-
+Calle Alonso Sánchez;Alonso Sánchez;Alonso;Sánchez;-2;Male;-;-
+Calle Onofre López;Onofre López;Onofre;López;-2;Male;-;-
+Calle Luis de Vargas;Luis Vargas;Luis;Vargas;-2;Male;-;-
+Calle Víctor Fuentes;Víctor Fuentes;Víctor;Fuentes;-2;Male;-;-
+Calle Manuel Llanes Muñoz;Manuel Llanes Muñoz;Manuel;Llanes;-2;Male;-;-
+Calle Manuel Sánchez Rodríguez;Manuel Sánchez Rodríguez;Manuel;Sánchez;-2;Male;-;-
+Calle Doña Ana Gaviño;Doña Ana Gaviño;Doña;Ana;2;Female;-;-
+Calle Julio Navarro Sánchez Tostado;Julio Navarro Sánchez Tostado;Julio;Navarro;-2;Male;-;-
+Calle Rosita Barrios Balboa;Rosita Barrios Balboa;Rosita;Barrios;2;Female;-;-
+Transversal Santa Rafaela María;Transversal Santa Rafaela María;Transversal;Santa;2;Female;-;-;https://es.wikipedia.org/wiki/Rafaela_Porras_y_Ayll%C3%B3n
+Calle Rey Gaspar;Rey Gaspar;Rey;Gaspar;-2;Male;-;-
+Calle Rey Melchor;Rey Melchor;Rey;Melchor;-2;Male;-;-
+Calle Rey Baltasar;Rey Baltasar;Rey;Baltasar;-2;Male;-;-
+Calle Asunción;Asunción;Asunción;;2;Female;-;-;https://es.wikipedia.org/wiki/Asunci%C3%B3n_de_Mar%C3%ADa
+Calle Santa Eulalia;Santa Eulalia;Santa;Eulalia;2;Female;-;-;https://es.wikipedia.org/wiki/Eulalia_de_M%C3%A9rida
+Plaza de Manuel Macías;Manuel Macías;Manuel;Macías;-2;Male;-;-
+Calle Patriarca San José;Patriarca San José;Patriarca;San;-2;Male;-;-
+Calle Santo Ángel;Santo Ángel;Santo;Ángel;-2;Male;-;-
+Calle Martín Pescador;Martín Pescador;Martín;Pescador;-2;Male;-;-
+Calle Zenobia;Zenobia;Zenobia;;2;Female;-;-;https://es.wikipedia.org/wiki/Zenobia_Camprub%C3%AD
+Calle Doctor José Gil;Doctor José Gil;Doctor;José;-2;Male;-;-
+Calle Vicente Aleixandre;Vicente Aleixandre;Vicente;Aleixandre;-2;Male;-;-
+Calle Severo Ochoa;Severo Ochoa;Severo;Ochoa;-2;Male;-;-
+Calle Pilar Gallango;Pilar Gallango;Pilar;Gallango;2;Female;-;-
+Avenida José Luis García Palacios;José Luis García Palacios;José;Luis;-2;Male;-;-
+Calle Charles Adams;Charles Adams;Charles;Adams;-2;Male;-;-
+Calle Alcalde José Antonio Marín Rite;AlcalJosé Antonio Marín Rite;AlcalJosé;Antonio;-2;Male;-;-
+Calle Cristóbal Gangoso;Cristóbal Gangoso;Cristóbal;Gangoso;-2;Male;-;-
+Calle Joaquín Sorolla;Joaquín Sorolla;Joaquín;Sorolla;-2;Male;-;-
+Calle Miguel Ferrer;Miguel Ferrer;Miguel;Ferrer;-2;Male;-;-
+Calle El Salvador;El Salvador;El;Salvador;-2;Male;-;-
+Calle Salvador Rueda;Salvador Rueda;Salvador;Rueda;-2;Male;-;-
+Calle Domingo Franco Zorrero;Domingo Franco Zorrero;Domingo;Franco;-2;Male;-;-
+Calle Boticario Curro Vázquez;Boticario Curro Vázquez;Boticario;Curro;-2;Male;-;-
+Calle Doctor Manuel Font Guardiola;Doctor Manuel Font Guardiola;Doctor;Manuel;-2;Male;-;-
+Calle José de Valdivieso;José Valdivieso;José;Valdivieso;-2;Male;-;-
+Calle Rafael López;Rafael López;Rafael;López;-2;Male;-;-
+Pasaje Manuel machado;Manuel machado;Manuel;machado;-2;Male;-;-
+Calle José Oliva;José Oliva;José;Oliva;-2;Male;-;-
+Calle Ana María Matute;Ana María Matute;Ana;María;2;Female;-;-;https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Matute
+Plaza Cristo del Perdón;Cristo Perdón;Cristo;Perdón;-2;Male;-;-
+Plaza Periodista Ana Vives Casas;Plaza Periodista Ana Vives s;Plaza;Periodista;2;Female;-;-;https://es.wikipedia.org/wiki/Ana_Vives_Casas
+Plaza San Isidro Labrado;San Isidro Labrado;San;Isidro;-2;Male;-;-
+Calle Virgen Chiquita;Virgen Chiquita;Virgen;Chiquita;2;Female;-;-
+Calle Virgen de Guadalupe;Virgen de Guadalupe;Virgen;Guadalupe;2;Female;-;-
+Paseo Virgen de la Victoria;Virgen de la Victoria;Virgen;Victoria;2;Female;-;-
+Calle Virgen de las Angustias;Virgen de las Angustias;Virgen;Angustias;2;Female;-;-
+Plaza Virgen de las Angustias;Virgen de las Angustias;Virgen;Angustias;2;Female;-;-
+Calle Virgen de las Mercedes;Virgen de las Mercedes;Virgen;Mercedes;2;Female;-;-
+Calle Virgen de Montemayor;irgen de Montemayor;Virgen;Montemayor;2;Female;-;-
+Calle Virgen del Dolor Mayor;Virgen del Dolor Mayor;Virgen;Dolor;2;Female;-;-
+Calle Virgen del Reposo;Virgen del Reposo;Virgen;Reposo;2;Female;-;-
+Calle Virgen del Valle;Virgen del Valle;Virgen;Valle;2;Female;-;-
+Calle Adonis;Adonis;Adonis;;-2;Male;-;-
+Calle Afrodita;Afrodita;Afrodita;;2;Female;-;-;https://es.wikipedia.org/wiki/Afrodita
+Calle Penélope;Penélope;Penélope;;2;Female;-;-;https://es.wikipedia.org/wiki/Pen%C3%A9lope
+Calle Ulises;Ulises;Ulises;;-2;Male;-;-
+Calle Doctor Pedro Naranjo;Doctor Pedro Naranjo;Doctor;Pedro;-2;Male;-;-
+Calle Diana;Diana;Diana;;2;Female;-;-;https://es.wikipedia.org/wiki/Diana_(mitolog%C3%ADa)
+Calle Zeus;Zeus;Zeus;;-2;Male;-;-
+Calle Apolo;Apolo;Apolo;;-2;Male;-;-
+Calle Hércules;Hércules;Hércules;;-2;Male;-;-
+Calle Atenea;Atenea;Atenea;;2;Female;-;-;https://es.wikipedia.org/wiki/Atenea

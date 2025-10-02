@@ -60,7 +60,7 @@ export default class MyApp {
       // Create an HTML node for every city and load its data
       for (let i = 0; i < country.citiesList.length; i++) {
         const city = country.citiesList[i];
-
+        console.log(`Loading data for ${city.name}`);
         this.myMap.map.on(
           'load',
           GeojsonService.loadGeojson(

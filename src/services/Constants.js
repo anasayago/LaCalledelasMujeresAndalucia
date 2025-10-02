@@ -9,7 +9,8 @@ export const maxRadius = 18;
 
 export const FEMALE = 'Female';
 export const MALE = 'Male';
-export const URL_DATA = 'https://raw.githubusercontent.com/geochicasosm/lascallesdelasmujeres/master';
+//export const URL_DATA = 'https://raw.githubusercontent.com/geochicasosm/lascallesdelasmujeres/master';
+export const URL_DATA = '';
 export const SOURCE_TYPES_LIST = ['line', 'fill'];
 
 export const OVERLAY_ID = 'admin-2-boundaries-dispute';
@@ -383,6 +384,23 @@ export const countriesList = [
           totalNames: 333,
         },
         center: [2.8239, 41.9842],
+      },
+       {
+        id: 'huelva',
+        name: 'Huelva',
+        datos: {
+          numLink: 44,
+          pcLink: 59.5,
+          numNoLink: 30,
+          pcNoLink: 40.5,
+          numMale: 316,
+          numFemale: 74,
+          pcMale: 81.0,
+          pcFemale: 19.0,
+          totalNames: 390,
+        },
+
+        center: [-6.94472, 37.26142],
       },
       {
         id: 'huesca',
