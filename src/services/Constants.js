@@ -10,6 +10,7 @@ export const maxRadius = 18;
 export const FEMALE = 'Female';
 export const MALE = 'Male';
 //export const URL_DATA = 'https://raw.githubusercontent.com/geochicasosm/lascallesdelasmujeres/master';
+
 export const URL_DATA = '/LaCalledelasMujeresAndalucia/';
 export const SOURCE_TYPES_LIST = ['line', 'fill'];
 
