@@ -11,6 +11,9 @@ concurrency:
   group: deploy
   cancel-in-progress: false
 
+env:
+  VITE_MAPBOX_TOKEN: ${{ secrets.VITE_MAPBOX_TOKEN }}
+
 jobs:
   build:
     name: "Deploy"
