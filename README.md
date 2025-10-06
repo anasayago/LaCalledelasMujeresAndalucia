@@ -1,96 +1,71 @@
-# #LasCallesDeLasMujeres
+# #LasCallesDeLasMujeresAndalucia
 
-Read this in ENGLISH here: [README.en.md](https://github.com/geochicasosm/lascallesdelasmujeres/blob/master/README.en.md)
+Visita la web: [#LasCallesDeLasMujeresAndalucia][(https://geochicasosm.github.io/lascallesdelasmujeres/) ](https://anasayago.github.io/LaCalledelasMujeresAndalucia/)(Versión beta )
 
-Visita la web del proyecto: [#LasCallesDeLasMujeres](https://geochicasosm.github.io/lascallesdelasmujeres/) ( Versión beta )
-
-Lee una explicación técnica del proyecto algo más detallada en este artículo: [#LasCallesDeLasMujeres (TheStreetsOfWomen) meets Mapbox #mapmadness18](https://t.co/1NCGE0eyIO)
+Lee una explicación técnica del proyecto original en este artículo: [#LasCallesDeLasMujeres (TheStreetsOfWomen) meets Mapbox #mapmadness18](https://t.co/1NCGE0eyIO)
 
 ## Descripción del proyecto
 
-Este es un proyecto colaborativo de Geochicas para producir un mapa de las calles con nombres de mujeres en América Latina y España. Esta propuesta busca vincular y generar contenido en OSM y Wikipedia sobre mujeres prominentes.
-
-El objetivo principal es crear una nueva narrativa de manera colaborativa, y así enfatizar la importancia de recordar a las mujeres, sus luchas y logros a través del espacio público y digital.
+Este es una version del proyecto colaborativo original de Geochicas para mostrar las calles con nombres de mujeres en América Latina y España. En esta caso la propuesta es Andalucia y busca vincular y generar contenido en Wikipedia sobre mujeres destacadas.
+El proyecto de Geochicas dice: 
+    "El objetivo principal es crear una nueva narrativa de manera colaborativa, y así enfatizar la importancia de recordar a las mujeres, sus luchas y logros a través del espacio público y digital.
 
 Por esta razón, hemos generado un mapa de las calles que tienen nombres de mujeres en las diferentes ciudades de América Latina y España, y así mostrar la brecha que históricamente existe dentro de las ciudades.
 
-Se pretende hacer una encuesta de información sobre calles, avenidas, pasajes, caminos que tienen los nombres de mujeres y también sus respectivas biografías en Wikipedia. También se alentará a agregar los nombres de las calles correspondientes a las mujeres que no están mapeadas en OpenStreetMap (mapa gratuito y colaborativo) y la creación de sus artículos en Wikipedia.
-
-El proyecto fue presentado oficialmente en el marco del Día Internacional de la Mujer, el 8 de marzo.
-
+Se pretende hacer una encuesta de información sobre calles, avenidas, pasajes, caminos que tienen los nombres de mujeres y también sus respectivas biografías en Wikipedia. También se alentará a agregar los nombres de las calles correspondientes a las mujeres que no están mapeadas en OpenStreetMap (mapa gratuito y colaborativo) y la creación de sus artículos en Wikipedia."
 
 ### Estado actual
 
-El proyecto se encuentra aún en desarrollo. La idea es ir ampliando paulatinamente el número de ciudades mapeadas, que hasta el momento son:
-
-- Asunción, Paraguay
-- Barcelona, España
-- Buenos Aires, Argentina
-- Cochabamba, Bolivia
-- Lima, Perú
-- Montevideo, Uruguay
-- Ciudad de México
-- La Habana, Cuba
-- Rosario, Argentina
-- Resistencia, Argentina
-
-En preparación:
-- Santa Fe, Argentina
-
+El proyecto originalmente cuenta con algunas ciudades y en esta versión agrega Huelva para posteriormente ir adicionando nuevas ciudades de la Comunidad Autónoma de Andalucía.
+Ciudades Mapeadas por País:
+* ARGENTINA
+    * BUENOS AIRES
+    * CHAJARÍ
+    * CIUDAD DE SAN LUIS
+    * CÓRDOBA
+    * PARANÁ
+    * RESISTENCIA
+    * ROSARIO
+    * SALTA
+    * SANTA FE
+* BOLIVIA
+    * COCHABAMBA
+* BRASIL
+    * PATO BRANCO
+    * CURITIBA
+* CUBA
+    * LA HABANA
+* ESPAÑA
+    * ALAQUÀS
+    * ALDAIA
+    * BADALONA
+    * BARCELONA
+    * GIJÓN
+    * GIRONA
+    * HUELVA
+    * HUESCA
+    * MADRID
+    * PUERTO DEL ROSARIO
+    * SALAMANCA
+    * SANTA COLOMA DE GRAMANET
+    * VALÈNCIA
+    * VALLADOLID
+    * ZARAGOZA
+* ITALIA
+    * BRESCIA
+* MÉXICO
+   * C. DE MÉXICO
+* PARAGUAY
+   * ASUNCIÓN
+   * ENCARNACIÓN
+* PERÚ
+   * LIMA
+* URUGUAY
+   * MONTEVIDEO
 
 ## Realizado con
 
 * [Mapbox](https://www.mapbox.com/) - The web framework used
-
-
-## Contribuir con el proyecto
-
-Contacta con nostras a través de twitter: [@geochicasosm](https://twitter.com/GeochicasOSM).
-
-
-## Coordinadoras
-
-
-* **Caleidoscpic** (*Bolivia*) - [@CaleidoscopeEye](http://www.fotonostra.com/glosario/arroba.htm) 
-    
-    Arquitecta, amante  del conocimiento libre y el trabajo colaborativo
-
-* **Nikole Arguedas** (*Costa Rica*)  
-    
-    UX/UI, apasionada por los mapas y el empoderamiento femenino.
-
-* **Jessica Sena** (*España*) - [@jsenag](https://jessisena.github.io/myprofile/) 
-    
-    Ingeniera informática, desarrolladora web/móvil en ámbito geo.
-
-* **Malena Libman** (*Argentina*) -  
-    
-    Técnica en SIG, Geoinquieta
-
-* **Selene Yang** (*Nicaragua*) - [@srta_peperina](https://twitter.com/Srta_Peperina)
-    
-    Investigadora académica. Sobreviviendo a un doctorado en Comunicación en la UNLP. Geofeminista     
-    
-## Colaboradores
-
-
-* **Carina Córdoba** (*Argentina*)
-
-* **Noe Ortiz** (*México*)
-
-* **Horacio Castellaro** (*Argentina*)
-
-
-## Organizaciones Aliadas
-
-* **Wikimedia Argentina** (*Argentina*)
-
-* **Wikimedia Bolivia** (*Bolivia*)
-
-* **Fundación Kiru y Datalat** (*Ecuador*)
-
-* **SantaLab** (*Argentina*)
-
 
 ## Adaptación y datos adicionales
 
@@ -100,7 +75,10 @@ Esta versión fue adaptada y ampliada por Ana Sayago para incluir la ciudad de H
 
 This project is licensed under *CC BY-SA* License - see the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) file for details
 
+## Notas de atribución
+
+Este repo es una versión para Huelva y otras ciudades de Andalucia; ver README original y licencia del proyecto fuente.
+* [Proyecto](https://github.com/geochicasosm/lascallesdelasmujeres) _La Calle de las Mujeres_ de Geochicas
+
 ## Reconocimiento
-
-* [Proyecto](https://blog.mapbox.com/mapping-female-versus-male-street-names-b4654c1e00d5) _Mapping female versus male street names_ de Mapbox por [Aruna Sankaranarayanan](https://www.mapbox.com/about/team/aruna-sankaranarayanan/) 
-
+* [Proyecto](https://blog.mapbox.com/mapping-female-versus-male-street-names-b4654c1e00d5) _Mapping female versus male street names_ de Mapbox por [Aruna Sankaranarayanan](https://www.mapbox.com/about/team/aruna-sankaranarayanan/)
