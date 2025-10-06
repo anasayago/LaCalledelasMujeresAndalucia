@@ -1,6 +1,6 @@
 # #LasCallesDeLasMujeresAndalucia
 
-Visita la web: [#LasCallesDeLasMujeresAndalucia][(https://geochicasosm.github.io/lascallesdelasmujeres/) ](https://anasayago.github.io/LaCalledelasMujeresAndalucia/)(Versión beta )
+Visita la web: [#LasCallesDeLasMujeresAndalucia][(https://anasayago.github.io/LaCalledelasMujeresAndalucia/) ](https://anasayago.github.io/LaCalledelasMujeresAndalucia/)(Versión beta )
 
 Lee una explicación técnica del proyecto original en este artículo: [#LasCallesDeLasMujeres (TheStreetsOfWomen) meets Mapbox #mapmadness18](https://t.co/1NCGE0eyIO)
 
