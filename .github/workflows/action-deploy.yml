@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - gh-pages
+      - master
 
 concurrency:
   group: deploy
