@@ -501,6 +501,22 @@ export const countriesList = [
         center: [-0.376351, 39.469868],
       },
       {
+        id: 'sevilla',
+        name: 'Sevilla',
+        datos: {
+          numLink: 134,
+          pcLink: 42.8,
+          numNoLink: 179,
+          pcNoLink: 57.2,
+          numMale: 0,
+          numFemale: 313,
+          pcMale: 0.0,
+          pcFemale: 100.0,
+          totalNames: 313,
+        },
+        center: [-5.984459, 37.389092],
+      },
+      {
         id: 'valladolid',
         name: 'Valladolid',
         datos: {
